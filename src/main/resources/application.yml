@@ -1,0 +1,7 @@
+server:
+  port: 8888
+
+kafka.clusters: localhost:9093
+logging:
+  level:
+    root: debug
